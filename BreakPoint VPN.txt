@@ -1,8 +1,9 @@
 #profile-title: ✨ BreakPoint Premium
 #profile-update-interval: 1
 #subscription-userinfo: expire=max; total=0; used=71940702208
-#profile-web-page-url: https://t.me/breakpointvpn
-#announce: ─── ❖ BreakPoint VPN ❖ ───
-⚠️ Технические работы 🛡️
+#profile-web-page-url: https://t.me/florentinez
+#announce: ─── ❖ Частный VPN · Только для Игоря и Гриши ❖ ───
 
-vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@108.162.193.217:443?security=tls&type=ws&path=/tixvuws&host=vangoghhh.info&sni=vangoghhh.info&fp=chrome&encryption=none#%5Bfreenode.biz%5D%20US
+vless://ff79993c-42b6-4fca-80ea-79c0bd7593dd@de2.niekotin.de:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=de2.niekotin.de#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%7C%20gRPC%20%E2%9A%A1%EF%B8%8F
+
+vless://f5550920-5379-4f83-9a3d-19e74e35110d@de2.niekotin.de:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=vless-grpc&sni=de2.niekotin.de#%F0%9F%87%A9%F0%9F%87%AA%20%20Germany%20%7C%20gRPC%20%E2%9A%A1%EF%B8%8F
