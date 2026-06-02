@@ -4,3 +4,5 @@
 #profile-web-page-url: https://t.me/breakpointvpn
 #announce: ─── ❖ BreakPoint VPN ❖ ───
 ⚠️ Технические работы 🛡️
+
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@108.162.193.217:443?security=tls&type=ws&path=/tixvuws&host=vangoghhh.info&sni=vangoghhh.info&fp=chrome&encryption=none#%5Bfreenode.biz%5D%20US
